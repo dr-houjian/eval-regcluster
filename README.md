@@ -11,4 +11,5 @@ https://github.com/MarcoFiorucci/graph-summarization-using-regular-partitions
 
 
 Usage:
+
 Simply run demo.py for a demonstration.
